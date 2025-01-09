@@ -3,23 +3,6 @@ preccrep/preccrep is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-```
-
-      ___         ___           ___           ___           ___           ___           ___           ___   
-     /  /\       /  /\         /  /\         /  /\         /  /\         /  /\         /  /\         /  /\  
-    /  /::\     /  /::\       /  /:/_       /  /:/        /  /:/        /  /::\       /  /:/_       /  /::\ 
-   /  /:/\:\   /  /:/\:\     /  /:/ /\     /  /:/        /  /:/        /  /:/\:\     /  /:/ /\     /  /:/\:\
-  /  /:/~/:/  /  /:/~/:/    /  /:/ /:/_   /  /:/  ___   /  /:/  ___   /  /:/~/:/    /  /:/ /:/_   /  /:/~/:/
- /__/:/ /:/  /__/:/ /:/___ /__/:/ /:/ /\ /__/:/  /  /\ /__/:/  /  /\ /__/:/ /:/___ /__/:/ /:/ /\ /__/:/ /:/ 
- \  \:\/:/   \  \:\/:::::/ \  \:\/:/ /:/ \  \:\ /  /:/ \  \:\ /  /:/ \  \:\/:::::/ \  \:\/:/ /:/ \  \:\/:/  
-  \  \::/     \  \::/~~~~   \  \::/ /:/   \  \:\  /:/   \  \:\  /:/   \  \::/~~~~   \  \::/ /:/   \  \::/   
-   \  \:\      \  \:\        \  \:\/:/     \  \:\/:/     \  \:\/:/     \  \:\        \  \:\/:/     \  \:\   
-    \  \:\      \  \:\        \  \::/       \  \::/       \  \::/       \  \:\        \  \::/       \  \:\  
-     \__\/       \__\/         \__\/         \__\/         \__\/         \__\/         \__\/         \__\/  
-
-
-```
-
 ![preccrep GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=preccrep&show_icons=true&theme=radical)
 ![preccrep GitHub stats](https://github-readme-stats.vercel.app/api?username=preccrep&show_icons=true&theme=tokyonight)
 
