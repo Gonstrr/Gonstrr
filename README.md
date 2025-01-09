@@ -11,9 +11,10 @@ Desarrollador de Software Móvil y Web | Titulado Ingeniería Informática | Apa
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </a>
-<a href="https://www.python.org/" target="_blank">
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<a href="https://kotlinlang.org/" target="_blank">
+  <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
 </a>
+
 
 <a href="https://www.cplusplus.com/" target="_blank">
   <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
