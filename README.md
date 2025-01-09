@@ -47,6 +47,11 @@ Desarrollador de Software Móvil y Web | Titulado Ingeniería Informática | Apa
   <img alt="Expo" src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white">
 </a>
 
+<a href="https://developer.android.com/studio" target="_blank">
+  <img alt="Android Studio" src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white">
+</a>
+
+
 <!-- Frontend Frameworks/Libraries -->
 <a href="https://tailwindcss.com/" target="_blank">
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
