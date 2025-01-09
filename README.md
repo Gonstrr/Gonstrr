@@ -2,9 +2,8 @@
 
 --->
 # 🚀 **Bienvenido a mi repositorio** 🚀  
-**Desarrollador de Software Móvil y Web | Estudiante de Ingeniería Informática | Apasionado por la tecnología**  
-
-
+**Gonzalo Salas T (alias Gonstrr)**  
+Desarrollador de Software Móvil y Web | Estudiante de Ingeniería Informática | Apasionado por la tecnología  
 
 **I'm a Night 🦉** 
 
