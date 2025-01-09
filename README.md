@@ -1,9 +1,9 @@
 <!---
-preccrep/preccrep is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
-    I'm a student currently studying computer science.
+--->
+# 🚀 **Bienvenido a mi repositorio** 🚀  
+**Desarrollador de Software Móvil y Web | Estudiante de Ingeniería Informática | Apasionado por la tecnología**  
+
 
 
 **I'm a Night 🦉** 
