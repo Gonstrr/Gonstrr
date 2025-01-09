@@ -15,31 +15,24 @@ Desarrollador de Software Móvil y Web | Titulado Ingeniería Informática | Apa
   <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
 </a>
 
-
-<a href="https://www.cplusplus.com/" target="_blank">
-  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-</a>
-
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
   <img alt="SQL" src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
 </a>
 
 <!-- Web Development -->
 
-
-<a href="https://www.mongodb.com/" target="_blank">
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+<a href="https://reactjs.org/" target="_blank">
+  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
 </a>
+
+<a href="https://nodejs.org/" target="_blank">
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
+</a>
+
 <a href="https://expressjs.com/" target="_blank">
   <img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
 </a>
 
-<a href="https://reactjs.org/" target="_blank">
-  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-</a>
-<a href="https://nodejs.org/" target="_blank">
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
-</a>
 
 <!-- Mobile Development -->
 <a href="https://reactnative.dev/" target="_blank">
@@ -63,9 +56,10 @@ Desarrollador de Software Móvil y Web | Titulado Ingeniería Informática | Apa
 </a>
 
 <!-- Database -->
-<a href="https://www.mysql.com/" target="_blank">
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+<a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
+  <img alt="SQL Server" src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
 </a>
+
 
 <!-- Version Control and Collaboration -->
 <a href="https://github.com/" target="_blank">
@@ -80,6 +74,11 @@ Desarrollador de Software Móvil y Web | Titulado Ingeniería Informática | Apa
 <a href="https://www.figma.com/" target="_blank">
   <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 </a>
+
+<a href="https://www.canva.com/" target="_blank">
+  <img alt="Canva" src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white">
+</a>
+
 
 <!-- Tools and Platforms -->
 
