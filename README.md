@@ -1,4 +1,4 @@
-# 🚀 **Bienvenido a mi repositorio** 🚀  
+# 🚀 **Bienvenido a mi repositorio** 
 **Gonzalo Salas T (alias Gonstrr)**  
 Desarrollador de Software Móvil y Web | Titulado Ingeniería Informática | Apasionado por la tecnología  
 
